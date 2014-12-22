@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The God of heaven A sermon appointed for the Crosse, but preached in the Cathedrall Church of St. Pa
+Jmprimatur,Tho. Wykes,October 9. 1638.
+1. TO THE RIGHT WORSHIPFVLL, and moſt Renowned Knight, Sir PAVL PINDAR, the Friend of the Church, the Father of the Poore, and the Honour of all his Family.
+
 #####Body#####
-The God of heaven A sermon appointed for the Crosse, but preached in the Cathedrall Church of St. Pa
+
+1. THE GOD OF HEAVEN.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
